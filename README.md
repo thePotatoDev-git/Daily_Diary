@@ -41,4 +41,11 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
  
  Have fun testing and improving it! 😎
 
+# Collaborators
 
+- [ChrisMillChill](https://github.com/ChrisMillChill)
+- [cb11cb12](https://github.com/cb11cb12)
+- [IIRedXII](https://github.com/llRedXll)
+- [TaraT1](https://github.com/TaraT1)
+- [thePotatoDev-git](https://github.com/thePotatoDev-git)
+- [wpatt849](https://github.com/wpatt849)
