@@ -2,22 +2,12 @@
 
 A Simple Journal App is built using the MVC Architecture, we have also implemented "authorization" so people can sign up, customize & personalize the app with their own Daily Diary entries. 
 
----
 
-> Be sure to add that lovely star 😀 and fork it for your own copy
+**Demo User** <br>
+Email: user@test.com <br>
+Password: tester123
 
----
-
-# Objectives
-
-- It's a beginner level app created to understand how MVC concept and logins are added
-
----
-
-# Who is this for? 
-
-- It's for beginners & intermediates with little more experience, to help understand the various aspects of building a node app with some complex features
-
+![Daily Diary app gif](https://raw.githubusercontent.com/thePotatoDev-git/thePotatoDev-git/main/images/dailydiary.gif)
 ---
 
 # Packages/Dependencies used 
