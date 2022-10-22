@@ -1,6 +1,6 @@
 # Introduction
 
-A Simple Journal App is built using the MVC Architecture, we have also implemented "authorization" so people can sign up, customize & personalize the app with their own Daily Diary entries. 
+A Simple Journal App is built using the MVC Architecture, we have also implemented "authorization" so people can sign up, customize & personalize the app with their own journal entries. 
 
 
 **Demo User** <br>
