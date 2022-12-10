@@ -1,23 +1,14 @@
 # Introduction
 
-A Simple Journal App is built using the MVC Architecture, we have also implemented "authorization" so people can sign up, customize & personalize the app with their own Daily Diary entries. 
+A Simple Journal App is built using the MVC Architecture, we have also implemented "authorization" so people can sign up, customize & personalize the app with their own journal entries. 
 
----
+**Link to Project:** https://dailydiary-100devs.herokuapp.com/
 
-> Be sure to add that lovely star 😀 and fork it for your own copy
+**Demo User** <br>
+Email: user@test.com <br>
+Password: tester123
 
----
-
-# Objectives
-
-- It's a beginner level app created to understand how MVC concept and logins are added
-
----
-
-# Who is this for? 
-
-- It's for beginners & intermediates with little more experience, to help understand the various aspects of building a node app with some complex features
-
+![Daily Diary app gif](https://raw.githubusercontent.com/thePotatoDev-git/thePotatoDev-git/main/images/dailydiary.gif)
 ---
 
 # Packages/Dependencies used 
@@ -41,4 +32,11 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
  
  Have fun testing and improving it! 😎
 
+# Collaborators
 
+- [ChrisMillChill](https://github.com/ChrisMillChill)
+- [cb11cb12](https://github.com/cb11cb12)
+- [IIRedXII](https://github.com/llRedXll)
+- [TaraT1](https://github.com/TaraT1)
+- [thePotatoDev-git](https://github.com/thePotatoDev-git)
+- [wpatt849](https://github.com/wpatt849)
