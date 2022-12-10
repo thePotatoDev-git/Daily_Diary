@@ -2,7 +2,7 @@
 
 A Simple Journal App is built using the MVC Architecture, we have also implemented "authorization" so people can sign up, customize & personalize the app with their own journal entries. 
 
-**Link to Project:** https://dailydiary-100devs.herokuapp.com/
+**Link to Project:** https://daily-diary.cyclic.app/
 
 **Demo User** <br>
 Email: user@test.com <br>
